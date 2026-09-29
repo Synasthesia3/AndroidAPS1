@@ -368,5 +368,5 @@ jobs:
     uses: ./.github/workflows/cleanup-workflow-runs.yml
     with:
       workflow_name: 'AAPS CI'
-      keep_runs: 24
+      keep_runs: 20
       keep_threshold: 5
